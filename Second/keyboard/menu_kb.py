@@ -1,5 +1,6 @@
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 
+
 def menu_kb():
     kb = ReplyKeyboardMarkup(keyboard=[
         [KeyboardButton(text='первые блюда'),
