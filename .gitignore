@@ -2,3 +2,5 @@ venv/
 media/
 .idea/
 .env
+__pycache__
+.gitignore
